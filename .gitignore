@@ -1,0 +1,4 @@
+clip-model/*
+__pycache__/*
+**/__pycache__/*
+mineclip.egg-info/*
